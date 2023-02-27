@@ -17,7 +17,58 @@ h3 {
     font-size: 5px;
 }
 
+h2 {
+    margin-left: 13px;
+    font-weight: 100px;
+    font-family: monospace;
+    font-size: 30px;
+}
 
 body {
     background: linear-gradient(to right, #834242, #425b83);
+}
+
+.list1 {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    scale: 50px;
+    background-color: white;
+    width: 15%;
+}
+
+li {
+    font-family: monospace;
+}
+h4 {
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: 13px;
+    font-weight: 100px;
+}
+
+p5 {
+    font-family: monospace;
+    font-size: 25px;
+}
+
+p {
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.socal {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    scale: 50px;
+    background-color: white;
+    width: 25%;
+}
+
+h10 {
+    font-family: monospace;
+    font-size: 60px;
+    margin-left: 70%;
+    margin-bottom: 50%;
 }
