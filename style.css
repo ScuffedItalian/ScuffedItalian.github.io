@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    position: top;
+    font-family: monospace;
+    font-size: 70px;
+    color: gray;
+    text-shadow: -3px 3px black;
+    background: linear-gradient(to right, #0060cc, #837039);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h3 {
+    text-align: center;
+    position: top;
+    font-family: monospace;
+    font-size: 5px;
+}
+
+
+body {
+    background: linear-gradient(to right, #834242, #425b83);
+}
