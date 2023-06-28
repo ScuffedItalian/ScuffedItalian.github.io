@@ -25,8 +25,9 @@ h2 {
 }
 
 body {
-    background: linear-gradient(to right, #834242, #425b83);
+    background-color: #444444;
 }
+
 
 .list1 {
     border: 1px solid #ccc;
@@ -37,6 +38,24 @@ body {
     width: 15%;
 }
 
+.list2 {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    scale: 50px;
+    background-color: white;
+    width: 15%;
+    
+   
+}
+
+
+.stngh {
+    margin-left: 13px;
+    font-weight: 100px;
+    font-family: monospace;
+    font-size: 30px; 
+}
 li {
     font-family: monospace;
 }
